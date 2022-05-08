@@ -1,4 +1,4 @@
-package pl.arp4.tablice;
+package pl.arp4.tablice_08_05_2022;
 import java.util.Scanner;
 
 public class MainLosowanieTablica2SkanerSumowanie {
