@@ -1,6 +1,4 @@
 
-Z
-*src/main/java/pl/arp4/typydanych/Main.java,4\0\40cce46f4000c8b67600dd5654f56a97713973b3
 c
 3src/main/java/pl/arp4/typydanych/MainKonwersja.java,5\f\5f997836512c279294ca9579e6cb1179b759b0ac
 `
